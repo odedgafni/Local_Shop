@@ -1,6 +1,6 @@
 # Local_Shop
 
-[http://ec2-18-159-186-121.eu-central-1.compute.amazonaws.com/](Check out the website)
+[Check out the website](http://ec2-18-159-186-121.eu-central-1.compute.amazonaws.com/)
 
 ## Clone & Install Dependencies
 ```bash
