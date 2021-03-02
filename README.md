@@ -1,6 +1,6 @@
 # Local_Shop
 
-For full functioning app please follow these steps:
+[http://ec2-18-159-186-121.eu-central-1.compute.amazonaws.com/](Check out the website)
 
 ## Clone & Install Dependencies
 ```bash
